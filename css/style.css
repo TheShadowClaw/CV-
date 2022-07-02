@@ -1,0 +1,18 @@
+body { background-color: powderblue ;}
+
+img:hover{background-color: rgb(80, 161, 242);}
+
+h1{color: navy;}
+h2{color: navy;}
+h3{color: navy;}
+
+hr
+{ 
+    background-color: powderblue;
+    border-style: none;
+    border-top-style: dotted;
+    border-top-color: rgba(167, 167, 167, 0.899);
+    border-top-width: 5px;
+    height: 0px;
+    width: 10%;
+} 
